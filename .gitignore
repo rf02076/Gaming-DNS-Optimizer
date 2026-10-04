@@ -1,0 +1,23 @@
+# Virtual Environment
+.venv/
+venv/
+env/
+
+# PyCharm / IDE
+.idea/
+
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+
+# PyInstaller (فایل‌های ساخته شده)
+build/
+dist/
+*.spec
+
+# Output Installer (فایل نصبی)
+Output_Installer/
+
+# User Configuration
+config.json
